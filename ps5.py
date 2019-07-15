@@ -1,9 +1,3 @@
-"""
-# Problem Set 5
-# Name: Shirin Amouei
-# Collaborators: None
-# Time: 7:00
-"""    
 
 from PIL import Image
 import numpy as np
